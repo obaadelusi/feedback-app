@@ -6,7 +6,7 @@ This project is the frontend of a feedback UI bootstrapped with [Create React Ap
 
 ## Access the code
 
-You can clone this repo by running `git clone https://github.com/obaadelusi/feedback-app.git`
+You can clone this repo by running this code `git clone https://github.com/obaadelusi/feedback-app.git`
 
 In the project directory, you can run:
 
